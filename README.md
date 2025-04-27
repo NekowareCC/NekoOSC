@@ -127,4 +127,4 @@ This project is licensed under the GPL-3.0 license. See the [LICENSE](LICENSE) f
 
 ---
 
-**NekoOSC** is developed with ❤️ by [Lycoris](https://github.com/LycorisWO)@[Nekoware](https://nekoware.cc). For support, questions, or feedback, please open an issue on GitHub.
+**NekoOSC** is developed with ❤️ by [naiolune](https://github.com/naiolune)@[Nekoware](https://nekoware.cc). For support, questions, or feedback, please open an issue on GitHub.
